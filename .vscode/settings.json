@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"*.html": "html",
+		".autofile": "bat",
+		"ijtxt.h": "c"
+	}
+}
